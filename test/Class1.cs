@@ -8,5 +8,6 @@ namespace test
 {
     class Class1
     {
+        ppp
     }
 }
